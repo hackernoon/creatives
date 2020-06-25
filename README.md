@@ -1,2 +1,2 @@
-# brand-assets
+# creatives
 what makes hackernoon hackernoon, visually
