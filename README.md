@@ -1,2 +1,2 @@
 # creatives
-what makes hackernoon hackernoon, visually
+a ibrary of pixelated icons. open-sourced.
